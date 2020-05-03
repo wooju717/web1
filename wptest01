@@ -1,0 +1,348 @@
+
+
+ <!DOCTYPE html> 
+ <html lang="ko-KR"> 
+ <head> 
+ <meta charset="UTF-8"> 
+ <meta name="viewport" content="width=device-width, initial-scale=1"> 
+ <link rel="profile" href="http://gmpg.org/xfn/11"> 
+ <link rel="pingback" href="http://localhost/wordpress/xmlrpc.php"> 
+ 
+ 
+ <title>mproject &#8211; 또다른 워드프레스 사이트</title> 
+ <link rel='dns-prefetch' href='//s.w.org' /> 
+ <link rel="alternate" type="application/rss+xml" title="mproject &raquo; 피드" href="http://localhost/wordpress/feed/" /> 
+ <link rel="alternate" type="application/rss+xml" title="mproject &raquo; 댓글 피드" href="http://localhost/wordpress/comments/feed/" /> 
+ <script type="text/javascript"> 
+ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}}; 
+ /*! This file is auto-generated */ 
+ !function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings); 
+ </script> 
+ <style type="text/css"> 
+ img.wp-smiley, 
+ img.emoji { 
+ display: inline !important; 
+ border: none !important; 
+ box-shadow: none !important; 
+ height: 1em !important; 
+ width: 1em !important; 
+ margin: 0 .07em !important; 
+ vertical-align: -0.1em !important; 
+ background: none !important; 
+ padding: 0 !important; 
+ } 
+ </style> 
+ <link rel='stylesheet' id='dashicons-css' href='http://localhost/wordpress/wp-includes/css/dashicons.min.css?ver=5.4.1' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='admin-bar-css' href='http://localhost/wordpress/wp-includes/css/admin-bar.min.css?ver=5.4.1' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='elementor-icons-css' href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='elementor-common-css' href='http://localhost/wordpress/wp-content/plugins/elementor/assets/css/common.min.css?ver=2.9.8' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='wp-block-library-css' href='http://localhost/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='font-awesome-css' href='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='bootstrap-css' href='http://localhost/wordpress/wp-content/themes/screenr/assets/css/bootstrap.min.css?ver=4.0.0' type='text/css' media='all' /> 
+ <link rel='stylesheet' id='screenr-style-css' href='http://localhost/wordpress/wp-content/themes/screenr/style.css?ver=5.4.1' type='text/css' media='all' /> 
+ <style id='screenr-style-inline-css' type='text/css'> 
+ #page-header-cover.swiper-slider.no-image .swiper-slide .overlay { 
+ background-color: #000000; 
+ opacity: 1; 
+ } 
+  
+  
+  
+  
+  
+  
+  
+ .gallery-carousel .g-item{ 
+ padding: 0px 10px; 
+ } 
+ .gallery-carousel { 
+ margin-left: -10px; 
+ margin-right: -10px; 
+ } 
+ .gallery-grid .g-item, .gallery-masonry .g-item .inner { 
+ padding: 10px; 
+ } 
+ .gallery-grid, .gallery-masonry { 
+ margin: -10px; 
+ } 
+  
+ </style> 
+ <link rel='stylesheet' id='screenr-gallery-lightgallery-css' href='http://localhost/wordpress/wp-content/themes/screenr/assets/css/lightgallery.css?ver=5.4.1' type='text/css' media='all' /> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> 
+ <link rel='https://api.w.org/' href='http://localhost/wordpress/wp-json/' /> 
+ <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/wordpress/xmlrpc.php?rsd" /> 
+ <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/wordpress/wp-includes/wlwmanifest.xml" />  
+ <meta name="generator" content="WordPress 5.4.1" /> 
+ <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" media="print">#wpadminbar { display:none; }</style> 
+ <style type="text/css" media="screen"> 
+ html { margin-top: 32px !important; } 
+ * html body { margin-top: 32px !important; } 
+ @media screen and ( max-width: 782px ) { 
+ html { margin-top: 46px !important; } 
+ * html body { margin-top: 46px !important; } 
+ } 
+ </style> 
+ </head> 
+ 
+ 
+ <body class="home blog logged-in admin-bar no-customize-support wp-custom-logo hfeed has-site-title has-site-tagline header-layout-fixed elementor-default"> 
+ <div id="page" class="site"> 
+ <a class="skip-link screen-reader-text" href="#content">콘텐츠로 바로가기</a> 
+ <header id="masthead" class="site-header" role="banner"> 
+ <div class="container"> 
+ <div class="site-branding"> 
+ <a href="http://localhost/wordpress/" class="custom-logo-link no-t-logo" rel="home" itemprop="url"><img width="233" height="58" src="http://localhost/wordpress/wp-content/uploads/2020/05/cropped-mcm_logo.jpg" class="custom-logo" alt="mproject" itemprop="logo" /></a> </div><!-- .site-branding --> 
+  
+ <div class="header-right-wrapper"> 
+ <a href="#" id="nav-toggle">메뉴<span></span></a> 
+ <nav id="site-navigation" class="main-navigation" role="navigation"> 
+ <ul class="nav-menu"> 
+ <div class="menu"><ul> 
+ <li class="page_item page-item-2"><a href="http://localhost/wordpress/sample-page/">샘플 페이지</a></li> 
+ <li class="page_item page-item-21"><a href="http://localhost/wordpress/%ec%86%8c%ea%b0%9c/">테스트</a></li> 
+ </ul></div> 
+ </ul> 
+ </nav> 
+ <!-- #site-navigation --> 
+ </div> 
+ 
+ 
+ </div> 
+ </header><!-- #masthead --> 
+ <section id="page-header-cover" class="section-slider swiper-slider fixed has-image" > 
+ <div class="swiper-container" data-autoplay="0"> 
+ <div class="swiper-wrapper "> 
+ <div class="swiper-slide slide-align-center " style="background-image: url('http://localhost/wordpress/wp-content/themes/screenr/assets/images/header-default.jpg');" ><div class="swiper-slide-intro"><div class="swiper-intro-inner" style="padding-top: 13%; padding-bottom: 13%; " ><h2 class="swiper-slide-heading">블로그</h2></div></div><div class="overlay"></div></div>	</div> 
+ </div> 
+ </section> 
+  
+ <div id="content" class="site-content"> 
+ <div id="content-inside" class="container right-sidebar"> 
+ <div id="primary" class="content-area"> 
+ <main id="main" class="site-main" role="main"> 
+ 
+ 
+  
+  
+  
+  
+ <article id="post-11" class="post-11 post type-post status-publish format-standard hentry category-uncategorized"> 
+ <header class="entry-header"> 
+ <h2 class="entry-title"><a href="http://localhost/wordpress/2020/05/01/test/" rel="bookmark">test</a></h2> 
+ <div class="entry-meta"> 
+ <span class="posted-on"><i aria-hidden="true" class="fa fa-clock-o"></i> <a href="http://localhost/wordpress/2020/05/01/test/" rel="bookmark"><time class="entry-date published updated" datetime="2020-05-01T10:43:07+09:00">2020년 5월 1일</time></a></span><span class="byline"> 글쓴이: <span class="author vcard"><a class="url fn n" href="http://localhost/wordpress/author/mproject/">mproject</a></span></span> <span class="meta-cate">카테고리: <a href="http://localhost/wordpress/category/uncategorized/">미분류</a></span>	</div><!-- .entry-meta --> 
+  
+ </header><!-- .entry-header --> 
+ <div class="entry-content"> 
+ <p>therefore there is no condemnation those who are in christ Jesus.</p> 
+ </div><!-- .entry-content --> 
+  
+ <div class="entry-more"> 
+ <a href="http://localhost/wordpress/2020/05/01/test/" title="test" class="btn btn-theme-primary">더보기<i aria-hidden="true" class="fa fa-chevron-right"></i></a> 
+ </div> 
+ 
+ 
+ </article><!-- #post-## --> 
+ 
+ 
+  
+  
+ <article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized"> 
+ <header class="entry-header"> 
+ <h2 class="entry-title"><a href="http://localhost/wordpress/2020/05/01/hello-world/" rel="bookmark">안녕하세요!</a></h2> 
+ <div class="entry-meta"> 
+ <span class="posted-on"><i aria-hidden="true" class="fa fa-clock-o"></i> <a href="http://localhost/wordpress/2020/05/01/hello-world/" rel="bookmark"><time class="entry-date published updated" datetime="2020-05-01T10:09:24+09:00">2020년 5월 1일</time></a></span><span class="byline"> 글쓴이: <span class="author vcard"><a class="url fn n" href="http://localhost/wordpress/author/mproject/">mproject</a></span></span> <span class="meta-cate">카테고리: <a href="http://localhost/wordpress/category/uncategorized/">미분류</a></span>	</div><!-- .entry-meta --> 
+  
+ </header><!-- .entry-header --> 
+ <div class="entry-content"> 
+ <p>워드프레스에 오신 것을 환영합니다. 이것은 첫 게시물입니다. 수정하거나 삭제하고 글쓰기를 시작하세요!</p> 
+ </div><!-- .entry-content --> 
+  
+ <div class="entry-more"> 
+ <a href="http://localhost/wordpress/2020/05/01/hello-world/" title="안녕하세요!" class="btn btn-theme-primary">더보기<i aria-hidden="true" class="fa fa-chevron-right"></i></a> 
+ </div> 
+ 
+ 
+ </article><!-- #post-## --> 
+ 
+ 
+  
+  
+  
+ </main><!-- #main --> 
+ </div><!-- #primary --> 
+ 
+ 
+  
+ <div id="secondary" class="widget-area sidebar" role="complementary"> 
+ <section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://localhost/wordpress/"> 
+ <label> 
+ <span class="screen-reader-text">다음 검색:</span> 
+ <input type="search" class="search-field" placeholder="검색 &hellip;" value="" name="s" /> 
+ </label> 
+ <input type="submit" class="search-submit" value="검색" /> 
+ </form></section>	<section id="recent-posts-2" class="widget widget_recent_entries">	<h2 class="widget-title">최근 글</h2>	<ul> 
+ <li> 
+ <a href="http://localhost/wordpress/2020/05/01/test/">test</a> 
+ </li> 
+ <li> 
+ <a href="http://localhost/wordpress/2020/05/01/hello-world/">안녕하세요!</a> 
+ </li> 
+ </ul> 
+ </section><section id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">최근 댓글</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow ugc' class='url'>워드프레스 댓글 작성자</a></span> (<a href="http://localhost/wordpress/2020/05/01/hello-world/#comment-1">안녕하세요!</a>)</li></ul></section><section id="archives-2" class="widget widget_archive"><h2 class="widget-title">글 목록</h2>	<ul> 
+ <li><a href='http://localhost/wordpress/2020/05/'>2020년 5월</a></li> 
+ </ul> 
+ </section><section id="categories-2" class="widget widget_categories"><h2 class="widget-title">카테고리</h2>	<ul> 
+ <li class="cat-item cat-item-1"><a href="http://localhost/wordpress/category/uncategorized/">미분류</a> 
+ </li> 
+ </ul> 
+ </section><section id="meta-2" class="widget widget_meta"><h2 class="widget-title">그 밖의 기능</h2>	<ul> 
+ <li><a href="http://localhost/wordpress/wp-admin/">사이트 관리</a></li>	<li><a href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=32f4bd847e">로그아웃</a></li> 
+ <li><a href="http://localhost/wordpress/feed/">Entries feed</a></li> 
+ <li><a href="http://localhost/wordpress/comments/feed/">Comments feed</a></li> 
+ <li><a href="https://wordpress.org/">WordPress.org</a></li>	</ul> 
+ </section></div><!-- #secondary --> 
+ 
+ 
+ </div><!--#content-inside --> 
+ </div><!-- #content --> 
+ 
+ 
+ <footer id="colophon" class="site-footer" role="contentinfo"> 
+  
+ <div class=" site-info"> 
+ <div class="container"> 
+ <div class="site-copyright"> 
+ Copyright &copy; 2020 mproject. All Rights Reserved. </div><!-- .site-copyright --> 
+ <div class="theme-info"> 
+ <a href="https://www.famethemes.com/themes/screenr">Screenr parallax theme</a> 제작자 FameThemes </div> 
+ </div> 
+ </div><!-- .site-info --> 
+  
+ </footer><!-- #colophon --> 
+ </div><!-- #page --> 
+ 
+ 
+ <script type="text/template" id="tmpl-elementor-templates-modal__header"> 
+ <div class="elementor-templates-modal__header__logo-area"></div> 
+ <div class="elementor-templates-modal__header__menu-area"></div> 
+ <div class="elementor-templates-modal__header__items-area"> 
+ <# if ( closeType ) { #> 
+ <div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item"> 
+ <# if ( 'skip' === closeType ) { #> 
+ <span>Skip</span> 
+ <# } #> 
+ <i class="eicon-close" aria-hidden="true" title="Close"></i> 
+ <span class="elementor-screen-only">Close</span> 
+ </div> 
+ <# } #> 
+ <div id="elementor-template-library-header-tools"></div> 
+ </div> 
+ </script> 
+ 
+ 
+ <script type="text/template" id="tmpl-elementor-templates-modal__header__logo"> 
+ <span class="elementor-templates-modal__header__logo__icon-wrapper elementor-gradient-logo"> 
+ <i class="eicon-elementor"></i> 
+ </span> 
+ <span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span> 
+ </script> 
+ <script type="text/template" id="tmpl-elementor-finder"> 
+ <div id="elementor-finder__search"> 
+ <i class="eicon-search"></i> 
+ <input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor"> 
+ </div> 
+ <div id="elementor-finder__content"></div> 
+ </script> 
+ 
+ 
+ <script type="text/template" id="tmpl-elementor-finder-results-container"> 
+ <div id="elementor-finder__no-results">No Results Found</div> 
+ <div id="elementor-finder__results"></div> 
+ </script> 
+ 
+ 
+ <script type="text/template" id="tmpl-elementor-finder__results__category"> 
+ <div class="elementor-finder__results__category__title">{{{ title }}}</div> 
+ <div class="elementor-finder__results__category__items"></div> 
+ </script> 
+ 
+ 
+ <script type="text/template" id="tmpl-elementor-finder__results__item"> 
+ <a href="{{ url }}" class="elementor-finder__results__item__link"> 
+ <div class="elementor-finder__results__item__icon"> 
+ <i class="eicon-{{{ icon }}}"></i> 
+ </div> 
+ <div class="elementor-finder__results__item__title">{{{ title }}}</div> 
+ <# if ( description ) { #> 
+ <div class="elementor-finder__results__item__description">- {{{ description }}}</div> 
+ <# } #> 
+ </a> 
+ <# if ( actions.length ) { #> 
+ <div class="elementor-finder__results__item__actions"> 
+ <# jQuery.each( actions, function() { #> 
+ <a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank"> 
+ <i class="eicon-{{{ this.icon }}}"></i> 
+ </a> 
+ <# } ); #> 
+ </div> 
+ <# } #> 
+ </script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/hoverintent-js.min.js?ver=2.2.1'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/admin-bar.min.js?ver=5.4.1'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/screenr/assets/js/plugins.js?ver=4.0.0'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/screenr/assets/js/bootstrap.min.js?ver=4.0.0'></script> 
+ <script type='text/javascript'> 
+ /* <![CDATA[ */ 
+ var Screenr = {"ajax_url":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","full_screen_slider":"","header_layout":"","slider_parallax":"1","is_home_front_page":"0","autoplay":"7000","speed":"700","effect":"slide","gallery_enable":"1"}; 
+ /* ]]> */ 
+ </script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/themes/screenr/assets/js/theme.js?ver=20120206'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/underscore.min.js?ver=1.8.3'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/backbone.min.js?ver=1.4.0'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=2.9.8'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script> 
+ <script type='text/javascript'> 
+ var elementorCommonConfig = {"version":"2.9.8","isRTL":false,"isDebug":false,"activeModules":["ajax","finder","connect"],"urls":{"assets":"http:\/\/localhost\/wordpress\/wp-content\/plugins\/elementor\/assets\/"},"ajax":{"url":"http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php","nonce":"32ca3ece93"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"post":{"title":"Add New \uae00","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=6f36bd566b","keywords":["post","page","template","new","create"]},"page":{"title":"Add New \ud398\uc774\uc9c0","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=6f36bd566b","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"Add New Template","icon":"plus-circle-o","url":"http:\/\/localhost\/wordpress\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"http:\/\/localhost\/wordpress","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"http:\/\/localhost\/wordpress\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"http:\/\/localhost\/wordpress\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"style":{"title":"Style","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor#tab-style","keywords":["style","settings","elementor"]},"advanced":{"title":"Advanced","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"Version Control","icon":"time-line","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"http:\/\/localhost\/wordpress\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}},"i18n":{"finder":"Finder"}},"connect":[]}; 
+ </script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-content/plugins/elementor/assets/js/common.min.js?ver=2.9.8'></script> 
+ <script type='text/javascript' src='http://localhost/wordpress/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script> 
+ <!--[if lte IE 8]> 
+ 	<script type="text/javascript"> 
+ 	document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support'; 
+ 	</script> 
+ 	<![endif]--> 
+ <!--[if gte IE 9]><!--> 
+ <script type="text/javascript"> 
+ (function() { 
+ var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)'); 
+ 
+ 
+ request = true; 
+  
+ b[c] = b[c].replace( rcs, ' ' ); 
+ // The customizer requires postMessage and CORS (if the site is cross domain). 
+ b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs; 
+ }()); 
+ </script> 
+ <!--<![endif]--> 
+ <div id="wpadminbar" class="nojq nojs"> 
+ <a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">도구 모음으로 건너뛰기</a> 
+ <div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="도구 모음"> 
+ <ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordpress/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">워드프레스 소개</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost/wordpress/wp-admin/about.php'>워드프레스 소개</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>문서</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>지원</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>피드백</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordpress/wp-admin/'>mproject</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost/wordpress/wp-admin/'>알림판</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost/wordpress/wp-admin/themes.php'>테마</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost/wordpress/wp-admin/widgets.php'>위젯</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost/wordpress/wp-admin/nav-menus.php'>메뉴</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://localhost/wordpress/wp-admin/themes.php?page=custom-background'>배경</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost/wordpress/wp-admin/themes.php?page=custom-header'>헤더</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%2Fwordpress%2F'>사용자 정의하기</a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost/wordpress/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 개 댓글이 검토중입니다</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordpress/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">새로 추가</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost/wordpress/wp-admin/post-new.php'>글</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost/wordpress/wp-admin/media-new.php'>미디어</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost/wordpress/wp-admin/post-new.php?post_type=page'>페이지</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='http://localhost/wordpress/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost/wordpress/wp-admin/user-new.php'>사용자</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost/wordpress/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">검색</label><input type="submit" class="adminbar-button" value="검색"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost/wordpress/wp-admin/profile.php'>안녕하세요. <span class="display-name">mproject</span>님<img alt='' src='http://0.gravatar.com/avatar/6e5f5969c1b6b0950fe4a3e187072a91?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6e5f5969c1b6b0950fe4a3e187072a91?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost/wordpress/wp-admin/profile.php'><img alt='' src='http://0.gravatar.com/avatar/6e5f5969c1b6b0950fe4a3e187072a91?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/6e5f5969c1b6b0950fe4a3e187072a91?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>mproject</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost/wordpress/wp-admin/profile.php'>내 프로필 편집</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=32f4bd847e'>로그아웃</a></li></ul></div></li></ul>	</div> 
+ <a class="screen-reader-shortcut" href="http://localhost/wordpress/wp-login.php?action=logout&#038;_wpnonce=32f4bd847e">로그아웃</a> 
+ </div> 
+ 
+ 
+  
+ </body> 
+ </html> 
+  
